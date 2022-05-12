@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toshikaraghuwanshi
-- 🌱 I’m currently learning Closures and Object Oriented JavaScript
+- 🌱 I’m working on React JS and JavaScript
 - 💞️ I’m looking to collaborate on Open Source
 - Visit my current development here: https://7news.netlify.app/
 <!---
